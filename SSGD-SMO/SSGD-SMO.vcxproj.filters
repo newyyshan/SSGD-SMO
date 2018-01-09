@@ -27,9 +27,4 @@
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Desktop\libsvm-3.22\heart_scale">
-      <Filter>源文件</Filter>
-    </None>
-  </ItemGroup>
 </Project>

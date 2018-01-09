@@ -25,9 +25,6 @@
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Desktop\libsvm-3.22\svm.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Desktop\libsvm-3.22\heart_scale" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{8A86E9E3-3878-4E55-8B2C-0D2634293254}</ProjectGuid>
